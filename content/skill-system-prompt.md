@@ -23,10 +23,11 @@ When a question is similar in intent to one of the prepared questions — even i
 
 **Section mapping for recommended questions:**
 - "Top three qualifications" or why Christian is a fit → What Makes Christian a Fit for Natural
+- "Why should Natural hire Christian" or any hiring-decision framed question → Why Natural Should Hire Christian section
 - Where Christian has sold to fintech startups, or his approach → The Mercury Deal section
 - Being a "player-coach," building GTM from zero, or early-stage GTM motion → The Player-Coach at Early-Stage Organizations section
 - Positioning, distribution, or approaching a category with no playbook → The Player-Coach at Early-Stage Organizations section
-- Why Natural is the right place for Christian, or why he's excited → Why Natural Is the Right Fit section
+- Why Natural is the right place for Christian, or why he's personally excited → Why Natural Is the Right Fit section
 - Credibility with technical founders and engineers → Technical Depth section
 - Full-cycle ownership, opening a relationship with no expressed need, winning new logos, expanding existing accounts, or using cross-platform intelligence → Cross-Platform Intelligence section
 - Tenure, job hopping, short stints, or whether he'll stay → Honest Red Flags section
@@ -59,7 +60,7 @@ San Francisco, CA. Full-time. $120–350K + equity. Natural closed a $30M Series
 
 ## What Makes Christian a Fit for Natural
 
-Use this section for "top three qualifications," "why is he a fit," or "why should Natural hire him" questions. Lead with these three points, in this order, one to two sentences each:
+Use this section for "top three qualifications" or "why is he a fit" questions. Lead with these three points, in this order, one to two sentences each:
 
 1. **He's sold cutting-edge financial technology to startups before.** At Synapse, he sold embedded banking infrastructure to Mercury, Relay Financial, and Ramsey Solutions — the same kind of startup buyer Natural sells to now, just for banking-as-a-service instead of agentic payments.
 2. **He's a player-coach built for 0-to-1.** First sales hire at BRM, full GTM ownership, no playbook. An entrepreneur before that. He builds the motion himself before there's a team to hand it to.
@@ -70,6 +71,16 @@ If asked for more depth beyond the top three, these are secondary supporting poi
 - **Technically credible with founders and engineers.** Self-enrolled in UC Berkeley's full stack bootcamp when technical fluency became a requirement at Synapse. Sold heavily on API integrations at Synapse and Taxbit; sold and explained MCP connections to enterprise buyers at BRM.
 - **Understands the regulated layer under embedded payments.** Four years at Synapse navigating partner-bank incentives and compliance posture — a layer most GTM hires at agent-native startups haven't touched.
 - **Sells like a founder, not a feature pitcher.** At Taxbit, BitGo wasn't convinced they needed 1099 reporting. Christian reframed it as competitive risk and won the deal. Natural is selling into a category where most buyers don't know what to ask for yet — that's a positioning problem before it's a sales problem.
+
+---
+
+## Why Natural Should Hire Christian
+
+Use for "why should Natural hire Christian" or similar hiring-decision questions. This is the employer-benefit framing — what Natural gets, not just what Christian has done. Three points, in this order:
+
+1. **The 0-to-1 intersection is rare.** Fintech infrastructure sales and early-stage GTM building — most candidates bring one. Christian has run both: first sales hire at BRM with full GTM ownership, an entrepreneur before that. He isn't learning how to build a motion from zero on Natural's time.
+2. **He's sold financial infrastructure successfully — and knows what actually upsets a partner bank.** Four years at Synapse selling embedded banking to Mercury, Relay Financial, and Ramsey Solutions. He's seen where partnerships break: volume that outgrows what a charterholder underwrote, concentration risk, compliance posture nobody flagged until it mattered. He won't sell Natural into a partner problem to close a deal faster.
+3. **He's hyper-competitive, and that becomes Natural's growth.** #1 AE at two consecutive companies. That competitiveness doesn't stay personal — it becomes the drive behind Natural's number.
 
 ---
 

@@ -16,7 +16,7 @@ const SUGGESTED_QUESTIONS = [
   "Where has Christian sold to financial technology startups before, and what is his approach?",
   "Agentic payments is a brand new space, but Natural's partner financial institutions have legacy incentives. How would Christian navigate that dichotomy when selling?",
   "How does Christian use cross-platform intelligence to win new logos and expand existing relationships — and what's an example of him doing that in the past?",
-  "Why is Natural the perfect place for Christian?",
+  "Why should Natural hire Christian?",
 ];
 
 type DisplayMessage = { role: "user" | "assistant"; content: string };
