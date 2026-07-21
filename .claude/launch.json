@@ -1,0 +1,71 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "web",
+      "runtimeExecutable": "/usr/bin/env",
+      "runtimeArgs": [
+        "PATH=/Users/christianvavuris/.nvm/versions/node/v24.18.0/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "node",
+        "node_modules/next/dist/bin/next",
+        "dev"
+      ],
+      "port": 3000
+    },
+    {
+      "name": "middesk",
+      "runtimeExecutable": "/usr/bin/env",
+      "runtimeArgs": [
+        "PATH=/Users/christianvavuris/.nvm/versions/node/v24.18.0/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "bash",
+        "-c",
+        "cd \"/Users/christianvavuris/Desktop/Middesk Job Site\" && exec node node_modules/next/dist/bin/next dev -p 3001"
+      ],
+      "port": 3001
+    },
+    {
+      "name": "anthropic",
+      "runtimeExecutable": "/usr/bin/env",
+      "runtimeArgs": [
+        "PATH=/Users/christianvavuris/.nvm/versions/node/v24.18.0/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "bash",
+        "-c",
+        "cd \"/Users/christianvavuris/Desktop/Anthropic Job Site\" && exec node node_modules/next/dist/bin/next dev -p 3002"
+      ],
+      "port": 3002
+    },
+    {
+      "name": "bretton",
+      "runtimeExecutable": "/usr/bin/env",
+      "runtimeArgs": [
+        "PATH=/Users/christianvavuris/.nvm/versions/node/v24.18.0/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "bash",
+        "-c",
+        "cd \"/Users/christianvavuris/Desktop/Bretton Job Site\" && exec node node_modules/next/dist/bin/next dev -p 3003"
+      ],
+      "port": 3003
+    },
+    {
+      "name": "stripe-startup-platforms",
+      "runtimeExecutable": "/usr/bin/env",
+      "runtimeArgs": [
+        "PATH=/Users/christianvavuris/.nvm/versions/node/v24.18.0/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "bash",
+        "-c",
+        "cd \"/Users/christianvavuris/Desktop/Stripe Startup Platforms Job Site\" && exec node node_modules/next/dist/bin/next dev -p 3004"
+      ],
+      "port": 3004
+    },
+    {
+      "name": "orb",
+      "runtimeExecutable": "/usr/bin/env",
+      "runtimeArgs": [
+        "PATH=/Users/christianvavuris/.nvm/versions/node/v24.18.0/bin:/usr/bin:/bin:/usr/sbin:/sbin",
+        "bash",
+        "-c",
+        "cd \"/Users/christianvavuris/Desktop/Orb Job Site\" && exec node node_modules/next/dist/bin/next dev -p 3005"
+      ],
+      "port": 3005
+    }
+  ]
+}
