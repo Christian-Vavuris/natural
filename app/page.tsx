@@ -151,7 +151,7 @@ export default function Home() {
         </p>
         <p className="mb-[18px]">
           This AI Cover Letter is designed to help you understand who I am
-          and what I&apos;ve done. Use it to understand how I can help
+          and what I&apos;ve done. Use it to understand where I can help
           Natural succeed.
         </p>
         <p>
