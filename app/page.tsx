@@ -16,6 +16,7 @@ const SUGGESTED_QUESTIONS = [
   "Where has Christian sold to financial technology startups before, and what is his approach?",
   "What does it mean that Christian is a player-coach, and how has he built a GTM motion from zero before?",
   "Natural sells to startups and developers building with agents — a category with no established playbook yet. How would Christian define positioning and build distribution from scratch?",
+  "Agentic payments is a category that didn't exist a few years ago — but the banks and networks underneath still run on the same incentives. How does Christian navigate that gap?",
   "Why is Natural the perfect place for Christian?",
 ];
 
@@ -149,9 +150,9 @@ export default function Home() {
           , a financial technology salesperson with 10 years of experience.
         </p>
         <p className="mb-[18px]">
-          This AI Cover Letter is built to help the Natural team understand
-          who I am and what I&apos;ve done. Use the box below to ask anything
-          you&apos;d like about me.
+          This AI Cover Letter is designed to help you understand who I am
+          and what I&apos;ve done. Use it to understand how I can help
+          Natural succeed.
         </p>
         <p>
           Here is a copy of my{" "}
