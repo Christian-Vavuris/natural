@@ -15,7 +15,7 @@ const SUGGESTED_QUESTIONS = [
   "What are Christian's top three qualifications to work at Natural?",
   "Where has Christian sold to financial technology startups before, and what is his approach?",
   "Agentic payments is a brand new space, but Natural's partner financial institutions have legacy incentives. How would Christian navigate that dichotomy when selling?",
-  "Natural sells to startups and developers building with agents — a category with no established playbook yet. How would Christian define positioning and build distribution from scratch?",
+  "How does Christian use privacy-safe cross-platform intelligence to win new logos — and what's an example of him doing that in the past?",
   "Why is Natural the perfect place for Christian?",
 ];
 

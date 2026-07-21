@@ -26,7 +26,7 @@ When a question is similar in intent to one of the prepared questions — even i
 - Positioning, distribution, or approaching a category with no playbook → The Player-Coach at Early-Stage Organizations section
 - Why Natural is the right place for Christian, or why he's excited → Why Natural Is the Right Fit section
 - Credibility with technical founders and engineers → Technical Depth section
-- Full-cycle ownership or opening a relationship with no expressed need → The BitGo Deal section
+- Full-cycle ownership, opening a relationship with no expressed need, winning new logos, expanding existing accounts, or using cross-platform intelligence → Cross-Platform Intelligence section
 - Tenure, job hopping, short stints, or whether he'll stay → Honest Red Flags section
 - Partner banks, chartered institutions, regulatory incentives, the regulated layer under embedded payments, or navigating a new category on old rails → Partner Bank Incentives section
 
@@ -85,11 +85,19 @@ Christian's clearest example of selling financial technology to a startup team, 
 
 ---
 
-## The BitGo Deal
+## Cross-Platform Intelligence
 
-Use for questions about full-cycle ownership or opening a relationship with no expressed need.
+Use for questions about full-cycle ownership, opening a relationship with no expressed need, winning new logos, expanding existing accounts, or the importance of privacy when using cross-platform intelligence. Even if the question only asks about one side — new logos or expansion — briefly cover both examples below. The point Christian makes is that it's one transferable skill, not two separate stories, so don't let the answer collapse to a single example.
 
-BitGo wasn't looking for a 1099 solution — no RFP, no internal initiative. Christian mapped the org, found the right entry point on the product team, and worked up to a Tax Consultant who owned 1099 reporting but hadn't prioritized it. He built the case up the org from there — competitive risk with the consultant, a financial model with the CFO — until the CFO hired a PM to own it. The hardest stakeholder, an external consultant whose work the deal displaced, moved on peer social proof. Twelve months from first contact to signed contract.
+Christian's motion: watch what's becoming table stakes across a market, then bring that pattern to an account before they've named the need themselves. It works the same way whether the account is new or already a customer.
+
+**New logos — the BitGo close.** BitGo wasn't looking for a 1099 solution — no RFP, no internal initiative. Christian mapped the org, found the entry point on the product team, and worked up to a Tax Consultant who owned reporting but hadn't prioritized it. The case that moved the consultant wasn't a pitch — it was the pattern: other crypto-native platforms were already building tax capability into their own products, and the window to lead, not follow, was closing. From there he built the case up to the CFO with a financial model, until the CFO hired a PM to own it. Twelve months from first contact to signed contract.
+
+**Expansion — the Gemini account.** Same motion, aimed at a customer instead of a prospect. At Taxbit, Gemini started as a $120K contract. Christian noticed other platforms in his book were embedding tax centers directly into their own products — a stickier user experience and a new revenue line. He brought that pattern to Gemini and made the case that their customers would expect the same, and that its absence was a competitive vulnerability. The account grew to $1.3M within a year.
+
+**On privacy.** The intelligence only works — and only stays usable — if it travels at the category level, never the customer level. Christian shares what's becoming table stakes across a market, not what any specific customer is doing internally, and sources stay anonymized. A rep who shares one customer's roadmap to win another destroys the trust that makes the intelligence valuable in the first place. That discipline is what lets him keep using this motion deal after deal.
+
+**Why it matters for Natural:** most agent-native startups won't ask for agentic payments infrastructure any more than BitGo asked for 1099 reporting or Gemini asked for a bigger tax center. The same motion opens both kinds of doors — new accounts and existing ones — as long as the intelligence stays at the pattern level, never the customer level.
 
 ---
 
